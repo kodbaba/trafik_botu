@@ -1,4 +1,4 @@
-<h1><a id="Surfow_exchanger_0"></a>Surfow exchanger</h1>
+<h1><a id="Kodbaba_exchanger_0"></a>Kodbaba exchanger</h1>
 <p><a href="intro"><img src="https://gdurl.com/l6fF" alt="N|Solid"></a><br>
 Surfow exchanger is a traffic exchange software that works with surfow script</p>
 <h3><a id="Tech_5"></a>Tech</h3>
@@ -9,7 +9,7 @@ Surfow exchanger is a traffic exchange software that works with surfow script</p
 <li><a href="http://jquery.com">jQuery</a></li>
 </ul>
 <h3><a id="Installation_11"></a>Installation</h3>
-<pre><code class="language-sh">$ git <span class="hljs-built_in">clone</span> https://github.com/surfow/exchanger.git
+<pre><code class="language-sh">$ git <span class="hljs-built_in">clone</span> https://github.com/kodbaba/trafik_botu.git
 $ <span class="hljs-built_in">cd</span> exchanger
 $ npm install
 $ npm start
